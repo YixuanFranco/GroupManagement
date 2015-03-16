@@ -1,8 +1,9 @@
-成员列表
-1.nicetag 金翠姬
-2.xiaomai2015 小麦
-3.chaonet 超net
-4.Runbigcat 大猫Felix
-5.yingsheng Helen Li
-6.wangyujie123 王玉洁
-7.mrLuyao 黎路遥
+Github | 姓名  | 操作系统
+------|:------:|:------
+nicetag  | 金翠姬 | OSX
+xiaomai2015  | 小麦 | 
+chaonet|超net  |
+Runbigcat|大猫Felix |OSX
+yingsheng |Helen Li|OSX
+wangyujie123| 王玉洁|
+mrLuyao |黎路遥|OSX
