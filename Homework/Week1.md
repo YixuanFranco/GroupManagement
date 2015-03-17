@@ -7,7 +7,10 @@
 - [x] `INFO`开学典礼。  
 - [x] 注册网易云课堂。  
 - [ ] Github初始化。  
-- [ ] Github与Gitbook链接 + 发布图书。  
+- [ ] Github与Gitbook链接 + 发布图书。 
+- [ ] say "Hello World".  
+- [ ] gitbook: markdown 教程.  
+- [ ] mailling-list 教程.  
 - [ ] 开学大典心得。  
 字数要求：无字数要求。可写自己的收获、感想、目标等。  
 内容要求：可主要写一下，反转教学的优缺点。及自己在反转教学中得到的反思。    
