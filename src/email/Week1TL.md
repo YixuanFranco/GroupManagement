@@ -33,6 +33,9 @@
 * 必须足够完备证明自己/小组进展  
 + 综上,当然是 列表邮件,最自然,最简单,也最有不可伪造性 ;-)  
 
+**Mar.18**
 
-
+1. [中文写作格式](https://github.com/YixuanBurnett/chinese-copywriting-guidelines)    
+2. CLI与GUI的本质区别=学习编程的目的。   
+3. 大妈关于CLI和GUI的回复。  
 
