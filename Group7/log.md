@@ -10,3 +10,11 @@
 
 1. 统计小组mooc.py 与 pythoncamp 方便大家相互学习
 2. 通知组员阅读BigHero reademe，组员自己更新gitbook信息，每周进度信息。
+
+# 3.18
+提醒事项：
+1. 组员将笔记更新至各自pythoncamp
+2. 未更新gitbook信息至GroupMember 的去更新
+3. 未fork pythoncamp0的的组员去fork
+4. 组员前往小组issues中提问
+5. 自己摸索解决的问题，可以分享至小组wiki中
