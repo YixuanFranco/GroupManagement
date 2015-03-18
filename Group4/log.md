@@ -15,6 +15,9 @@
 
 6. Tony Yet 更新了 [开光大典简记](https://github.com/tonyyet/pythoncamp0/blob/master/source/diary/Day0.md)
 
+7. 张亚冬尝试了 issues 和 mention 功能：[地址](https://github.com/yzha3917/omooc.py/issues/1)
+
+
 
 ***2015年3月17日***
 
