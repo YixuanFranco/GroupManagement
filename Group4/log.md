@@ -7,7 +7,7 @@
 
 2. 成员间互相介绍，熟悉.
 
-3. 收集了所有成员的 GitHub ID 和电脑操作系统等信息，并更新与组长的[OMOOC.py](https://github.com/yzha3917/omooc.py/blob/master/member.md) .
+3. 收集了所有成员的 GitHub ID 和电脑操作系统等信息，并更新于组长的 [OMOOC.py](https://github.com/yzha3917/omooc.py/blob/master/member.md) .
 
 4. 确定了每周小组例会的时间（每周六晚上八点）.
 
