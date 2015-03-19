@@ -28,10 +28,10 @@
 
 
 1. 路遥：   
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
-  - 小组库的链接：  
+  - gihub 的代码仓库： https://github.com/mrluyao/omooc.py  
+  - gitbook 在 github 上的图书仓库：https://github.com/mrluyao/pythoncamp0  
+  - gitbook 发布链接：http://mrluyao.gitbooks.io/pythoncamp0/content/
+  - 小组库的链接：https://github.com/mrLuyao/group  
 
 2. 弓和箭：  
   - gihub 的代码仓库：  
