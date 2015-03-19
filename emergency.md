@@ -28,56 +28,56 @@
 
 
 1. 路遥：   
-- gihub 的代码仓库：  
-- gitbook 在 github 上的图书仓库：  
-- gitbook 发布链接：  
-- 小组库的链接：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+  - 小组库的链接：  
 
 2. 弓和箭：  
-- gihub 的代码仓库：  
-- gitbook 在 github 上的图书仓库：  
-- gitbook 发布链接：  
-- 小组库的链接：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+  - 小组库的链接：   
 
 3. 廖保城：  
-- gihub 的代码仓库：  
-- gitbook 在 github 上的图书仓库：  
-- gitbook 发布链接：  
-- 小组库的链接：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+  - 小组库的链接：  
 
 4. 张亚冬：  
-- gihub 的代码仓库：  
-- gitbook 在 github 上的图书仓库：  
-- gitbook 发布链接：  
-- 小组库的链接：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+  - 小组库的链接：  ：  
 
 5. free：  
-- gihub 的代码仓库：  
-- gitbook 在 github 上的图书仓库：  
-- gitbook 发布链接：  
-- 小组库的链接：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+  - 小组库的链接：    
 
 6. 袅袅：  
-- gihub 的代码仓库：  
-- gitbook 在 github 上的图书仓库：  
-- gitbook 发布链接：  
-- 小组库的链接：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+  - 小组库的链接：   
 
 7. 安静：  
-- gihub 的代码仓库：  
-- gitbook 在 github 上的图书仓库：  
-- gitbook 发布链接：  
-- 小组库的链接：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+  - 小组库的链接：    
 
 8. 尹相飞：  
-- gihub 的代码仓库：  
-- gitbook 在 github 上的图书仓库：  
-- gitbook 发布链接：  
-- 小组库的链接：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+  - 小组库的链接：    
 
 9. 冒孙飞：  
-- gihub 的代码仓库：  
-- gitbook 在 github 上的图书仓库：  
-- gitbook 发布链接：  
-- 小组库的链接：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+  - 小组库的链接：   
 
