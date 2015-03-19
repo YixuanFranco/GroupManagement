@@ -17,7 +17,7 @@
 副班长 | rosing | 蝈蝈
 一组组长 | [mrLuyao](https://github.com/mrLuyao) | 路遥
 二组组长 | [badboy315](https://github.com/badboy315) | 弓和箭
-三组组长 | [balsamlet](https://github.com/balsamlet) | 廖保城
+三组组长 | [balsamle0](https://github.com/balsamleo) | 廖保城
 四组组长 | [yzha3917](https://github.com/yzha3917) | 张亚冬
 五组组长 | [csufuyi](https://github.com/csufuyi) | FREE
 六组组长 | [sunmmy](https://github.com/sunmmy) | 袅袅
