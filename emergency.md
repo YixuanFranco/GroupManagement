@@ -58,10 +58,10 @@
   - 小组库的链接：    https://github.com/csufuyi/42py
 
 6. 袅袅：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
-  - 小组库的链接：   
+  - gihub 的代码仓库： https://github.com/sunmmy/omooc.py 
+  - gitbook 在 github 上的图书仓库：https://github.com/sunmmy/pythoncamp0
+  - gitbook 发布链接： http://sunmmy.gitbooks.io/pythonbook/content/ 
+  - 小组库的链接： https://github.com/sunmmy/6godspy  
 
 7. 安静：  
   - gihub 的代码仓库：  https://github.com/Lillianmin/omooc.py
