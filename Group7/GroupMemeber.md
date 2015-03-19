@@ -1,4 +1,4 @@
-[最新](https://github.com/Lillianmin/BigHero/blob/master/GroupMember.md)
+[最新版本在此](https://github.com/Lillianmin/BigHero/blob/master/GroupMember.md)
 
 
 |Github|昵称|系统|omooc.py|pythoncamp|gitbook|
