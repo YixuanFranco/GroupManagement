@@ -52,10 +52,10 @@
   - 小组库的链接：  ：  
 
 5. free：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
-  - 小组库的链接：    
+  - github 的代码仓库：https://github.com/csufuyi/mooc.py  
+  - gitbook 在 github 上的图书仓库：  https://github.com/csufuyi/pythoncamp0
+  - gitbook 发布链接：  http://csufuyi.gitbooks.io/python-startup/content/
+  - 小组库的链接：    https://github.com/csufuyi/42py
 
 6. 袅袅：  
   - gihub 的代码仓库：  
