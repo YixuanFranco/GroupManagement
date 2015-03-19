@@ -18,3 +18,7 @@
 5. gitbook 发布方式是有多种的。 自行折腾下先。
 6. 大家要记得看邮件列表， 昨日的邮件列表给了重要的一些指引； 同时课程作业以 163 云课堂为准。  
 - [x] 已阅。 Mar. 19 10:14 Yixuan
+
+### 19日
+
+1. 建立了群组github https://github.com/2TT/2t/blob/master/README.md 
