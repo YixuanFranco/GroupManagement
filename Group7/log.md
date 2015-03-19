@@ -13,8 +13,11 @@
 
 # 3.18
 提醒事项：
-1. 组员将笔记更新至各自pythoncamp
-2. 未更新gitbook信息至GroupMember 的去更新
-3. 未fork pythoncamp0的的组员去fork
-4. 组员前往小组issues中提问
-5. 自己摸索解决的问题，可以分享至小组wiki中
+1. 组员将笔记更新至各自pythoncamp  
+2. 未更新gitbook信息至GroupMember 的去更新  
+3. 未fork pythoncamp0的的组员去fork  
+4. 组员前往小组issues中提问  
+5. 自己摸索解决的问题，可以分享至小组wiki中  
+- [x] 已阅。 Mar.19 10:39 Yixuan
+
+> 建议把组内有用链接新建一个文件封存起来。避免重复动作。
