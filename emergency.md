@@ -76,8 +76,8 @@
   - 小组库的链接：    https://github.com/XiangfeiYin/group8
 
 9. 冒孙飞：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
-  - 小组库的链接：   
+  - gihub 的代码仓库： https://github.com/Rogersunfly/mooc.py 
+  - gitbook 在 github 上的图书仓库：  https://github.com/Rogersunfly/pythoncamp0
+  - gitbook 发布链接：  https://www.gitbook.com/book/rogersunfly/python/details
+  - 小组库的链接：   https://github.com/Rogersunfly/Python9
 
