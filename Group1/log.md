@@ -9,4 +9,7 @@
 3. 确定集中讨论时间为9点30分。  
 4. 讨论mindmap工具。  
 5. 讨论如何完成Hello World作业。  
-- [x] 已阅。Mar.19 10:03 Yixuan
+
+**Mar.19
+1.收集emergency.md的链接
+2.就github和gitbook之间的同步讨论。
