@@ -21,7 +21,7 @@
   - gitbook 发布链接：  http://duanxinxing.gitbooks.io/python101/content/
 
 3. 庄秀丽：  
-  - github 的代码仓库：https://github.com/xiulizhuang/omooc.py   这个是空的
+  - github 的代码仓库：https://github.com/xiulizhuang/omooc.py
   - gitbook 在 github 上的图书仓库：  https://github.com/xiulizhuang/pythoncamp0
   - gitbook 发布链接：  未找到
 
@@ -29,7 +29,7 @@
 4. 凯凯：  
   - github 的代码仓库：https://github.com/leokaikai/omooc.py  
   - gitbook 在 github 上的图书仓库：  https://github.com/leokaikai/pythoncamp0
-  - gitbook 发布链接：  https://www.gitbook.com/book/leokaikai/-kaikai/details  这个有书名，没发布。
+  - gitbook 发布链接：  http://leokaikai.gitbooks.io/-kaikai/content/
 
 
 5. Asshole徐梦阳：  
@@ -38,9 +38,9 @@
   - gitbook 发布链接：  http://42wolf.gitbooks.io/pythoncamp0/content/
 
 6. 三月之望：  
-  - github 的代码仓库：https://github.com/sanyue3always/omooc.py  这个是空的
+  - github 的代码仓库：https://github.com/sanyue3always/omooc.py
   - gitbook 在 github 上的图书仓库：  https://github.com/sanyue3always/pythoncamp0
-  - gitbook 发布链接：  https://www.gitbook.com/@sanyue3always 这个关联了账号，但是没有发布书呀！
+  - gitbook 发布链接：  https://www.gitbook.com/book/sanyue3always/python-learning-notes/details
 
   
 
