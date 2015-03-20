@@ -34,7 +34,7 @@
   - 小组库的链接：https://github.com/mrLuyao/group  
 
 2. 弓和箭：  
-  - gihub 的代码仓库：https://github.com/badboy315/OMOOC.py-1  
+  - gihub 的代码仓库：https://github.com/badboy315/OMOOC.py
   - gitbook 在 github 上的图书仓库：https://github.com/mrluyao/pythoncamp0  
   - gitbook 发布链接：http://badboy315.gitbooks.io/pythoncamp0/content/  
   - 小组库的链接：https://github.com/2TT/2t   
