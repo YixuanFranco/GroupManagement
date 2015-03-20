@@ -43,7 +43,7 @@
   - gihub 的代码仓库：https://github.com/balsamleo/OMOOC.py
   - gitbook 在 github 上的图书仓库：https://github.com/balsamleo/pythoncamp0  
   - gitbook 发布链接： http://balsamleo.gitbooks.io/pythoncamp0/content/
-  - 小组库的链接：  
+  - 小组库的链接： https://github.com/Python3OM/Python3
 
 4. 张亚冬：  
   - gihub 的代码仓库：  https://github.com/yzha3917/omooc.py
