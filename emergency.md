@@ -70,10 +70,10 @@
   - 小组库的链接：    https://github.com/Lillianmin/BigHero
 
 8. 尹相飞：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
-  - 小组库的链接：    
+  - gihub 的代码仓库：  http://xiangfeiyin.gitbooks.io/omooc-py/content/
+  - gitbook 在 github 上的图书仓库： https://github.com/XiangfeiYin/pythoncamp0 
+  - gitbook 发布链接：  http://xiangfeiyin.gitbooks.io/omooc-py/content/
+  - 小组库的链接：    https://github.com/XiangfeiYin/group8
 
 9. 冒孙飞：  
   - gihub 的代码仓库：  
