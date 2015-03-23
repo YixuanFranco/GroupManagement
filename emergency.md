@@ -34,16 +34,16 @@
   - 小组库的链接：https://github.com/mrLuyao/group  
 
 2. 弓和箭：  
-  - gihub 的代码仓库：https://github.com/badboy315/OMOOC.py-1  
+  - gihub 的代码仓库：https://github.com/badboy315/OMOOC.py
   - gitbook 在 github 上的图书仓库：https://github.com/mrluyao/pythoncamp0  
   - gitbook 发布链接：http://badboy315.gitbooks.io/pythoncamp0/content/  
   - 小组库的链接：https://github.com/2TT/2t   
 
 3. 廖保城：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
-  - 小组库的链接：  
+  - gihub 的代码仓库：https://github.com/balsamleo/OMOOC.py
+  - gitbook 在 github 上的图书仓库：https://github.com/balsamleo/pythoncamp0  
+  - gitbook 发布链接： http://balsamleo.gitbooks.io/pythoncamp0/content/
+  - 小组库的链接： https://github.com/Python3OM/Python3
 
 4. 张亚冬：  
   - gihub 的代码仓库：  https://github.com/yzha3917/omooc.py
@@ -70,14 +70,14 @@
   - 小组库的链接：    https://github.com/Lillianmin/BigHero
 
 8. 尹相飞：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
-  - 小组库的链接：    
+  - gihub 的代码仓库：  http://xiangfeiyin.gitbooks.io/omooc-py/content/
+  - gitbook 在 github 上的图书仓库： https://github.com/XiangfeiYin/pythoncamp0 
+  - gitbook 发布链接：  http://xiangfeiyin.gitbooks.io/omooc-py/content/
+  - 小组库的链接：    https://github.com/XiangfeiYin/group8
 
 9. 冒孙飞：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
-  - 小组库的链接：   
+  - gihub 的代码仓库： https://github.com/Rogersunfly/mooc.py 
+  - gitbook 在 github 上的图书仓库：  https://github.com/Rogersunfly/pythoncamp0
+  - gitbook 发布链接：  https://www.gitbook.com/book/rogersunfly/python/details
+  - 小组库的链接：   https://github.com/Rogersunfly/Python9
 
