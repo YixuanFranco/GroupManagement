@@ -1,59 +1,52 @@
-## 小组成员自我介绍
+## 组员信息登记
 
----
+[各小组成员库查看](https://github.com/YixuanBurnett/GroupManagement/blob/master/emergency.md)
 
-### 弓和箭
+GitBook 发布地址  | GitHub ID | 姓名 
+---- | ---- | ----
+[badboy315](http://badboy315.gitbooks.io/pythoncamp0/content/) | [badboy315](https://github.com/badboy315) | 弓和箭
+[kidult's Python book](http://kidult00.gitbooks.io/kidult-s-python-book/content/) | [kidult00](https://github.com/kidult00) | 00
+[rainvoo](http://rainvoo.gitbooks.io/pythoncamp0/content/) | [rainvoo](https://github.com/Rainvoo) | rainvoo
+[Frank Python Practice](http://tianfrank.gitbooks.io/frank-python-practice/content/) | [tianfrank](https://github.com/tianfrank) | tianfrank
+[wdcheng1](http://wdcheng1.gitbooks.io/python-book/content/) | [wdcheng1](https://github.com/wdcheng1) | 启程---东
+[Wenzy]() | [Wenzy](https://github.com/Wenzy--) | Wenzy
+yournamegitbook | yourgithub | yourname
 
-- 国内，定居深圳
-- 性别：见头像……年龄吗？大家感觉头像多大就是多大！一般都把我猜大了
-- 技术基础：文科男，工作性质未涉及理科。技术能力能重装电脑，对IT感点兴趣而言。去年搞定了jekyll blog.也算一点小进步了
-- Mac系统
-- 职业：互联网小兵，不涉及技术
-- 目标：五大元科学啊。越来越好……专题方向，现在还没明白。
+2. 弓和箭：  
+  - github帐号：badboy315
+  - gihub 的代码仓库：https://github.com/badboy315/OMOOC.py
+  - gitbook 在 github 上的图书仓库：https://github.com/badboy315/pythoncamp0  
+  - gitbook 发布链接：http://badboy315.gitbooks.io/pythoncamp0/content/  
+  - 小组库的链接：https://github.com/2TT/2t   
 
-### 00
+3. 00：  
+  - gihub 帐号： kidult00
+  - gihub 的代码仓库：https://github.com/kidult00/omooc.py
+  - gitbook 在 github 上的图书仓库：  https://github.com/kidult00/pythoncamp0
+  - gitbook 发布链接：  http://kidult00.gitbooks.io/kidult-s-python-book/content/
 
-大家好~我是00，坐标深圳，（女）设计师，接触过简单的前端编程，系统win+mac，今年下决心要学会一门语言
+3. tianfrank：  
+  - gihub 的代码仓库：https://github.com/tianfrank/omooc.py
+  - gitbook 在 github 上的图书仓库：https://github.com/tianfrank/pythoncamp0 
+  - gitbook 发布链接： http://tianfrank.gitbooks.io/frank-python-practice/content/
 
-### tianfrank
+3. wenzy：  
+  - gihub 的代码仓库：https://github.com/Wenzy--/omooc.py  
+  - gitbook 在 github 上的图书仓库：https://github.com/Wenzy--/pythoncamp0.git  
+  - gitbook 发布链接：  
 
-大家好，我是tianfrank, 坐标福（hu）州。英语专业在读，电脑编程负基础。希望能通过这次学习体验一下阳老说的五大元学科中的编程，最好能在学习工作中运用。
-windows党，刚装了ubuntu.[Fight] Pleasure to meet u guys!
+3. 启程-东：  
+  - gihub 的代码仓库：https://github.com/wdcheng1/OMOOC.py
+  - gitbook 在 github 上的图书仓库：https://github.com/wdcheng1/pythoncamp0
+  - gitbook 发布链接：http://wdcheng1.gitbooks.io/python-book/content/  
 
-### wenzy
+3. rainvoo：  
+  - gihub 账号：  rainvoo
+  - gihub 的代码仓库：  https://github.com/Rainvoo/omooc.py
+  - gitbook 在 github 上的图书仓库：  https://www.gitbook.com/book/rainvoo/pythoncamp0/details
+  - gitbook 发布链接：  http://rainvoo.gitbooks.io/pythoncamp0/content/
 
-大家好，我也做个简单的自我介绍～～
-
-坐标：北京
-性别：男（1990）
-职业：设计师
-操作系统：MAC
-技术基础：有一点编程基础。近期在自学processing和python
-自我介绍：不安分，爱折腾，今年也是下定决心拿下编程，希望最终能成为一名独立游戏开发者，创作有意思的作品
-个人主页：http://www.zcool.com.cn/u/1316605
-
-很高兴认识各位[Smile]～～
-
-### 启程-东
-
-- 国内，常住南京
-- 性别：男
-- 技术基础：一直用window，现在还是首次用MAC，先前大学混过一学期VC。首次接触Python
-- 职业：汽车 研发类
-- 目标：能顺利扛过这3个月的碾压，争取不掉队。。
-
-### raivvoo
-
-- 国内，上海
-- 性别：男，25
-- 技术基础：无
-- win10、Ubuntu
-- 职业：城市规划（设计咨询）
-- 目标：培养程序思维和抓取数据分析数据的能力
-
-### 李晓静
-
-大家好，我叫李晓静，理工女，在德国读电子信息工程，目前大二
-技术基础：略学过一点点Java和面向对象编程思想，但是只会应付考试……
-系统：win，今天下午准备刷Ubuntu
-目标：能用Python写小程序，然后主要是学会编程的学习方法～
+3. 李晓静：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
