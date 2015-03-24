@@ -32,5 +32,10 @@ markdown
      
 3.23  
     完成course.org的注册和两门课程的注册
+    
+3.24
+    各自埋头学习视频课程，中间讨论各自进度，解决codesculptor.org访问问题
+    
+    
    
    
