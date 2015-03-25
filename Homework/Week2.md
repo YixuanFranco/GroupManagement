@@ -18,6 +18,9 @@
 ##五组
 
 ##六组
+组号 |组员姓名|完成时间（精确到分钟）|完成作业链接
+--- |---|---|---|---
+6组|糖糖糖|3.24 21:02|https://github.com/skyworlds/omooc.py/blob/master/src/iippy-1.py|
 
 ##七组
 
