@@ -10,7 +10,9 @@
 ##一组
 
 ##二组
-
+组号 |组员姓名|完成时间（精确到分钟）|完成作业链接 | 完成作业截图 |
+--- |---|---|---|---
+2组|弓和箭|3.25 11:45|https://github.com/badboy315/src-iippy-1/blob/master/Guess%20the%20number.py| http://www.douban.com/photos/photo/2234586434/large |
 ##三组
 
 ##四组
