@@ -18,6 +18,11 @@
 ##四组
 
 ##五组
+组号 |组员姓名|完成时间（精确到分钟）|完成作业链接
+--- |---|---|---|---
+5组|free|3.25 23:02|https://github.com/csufuyi/mooc.py/blob/master/src/iippy-1/GuessNumber.py|
+
+
 
 ##六组
 组号 |组员姓名|完成时间（精确到分钟）|完成作业链接
