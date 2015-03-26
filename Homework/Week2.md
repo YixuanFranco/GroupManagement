@@ -37,6 +37,7 @@
 --- |---|---|---|---
 6组|糖糖糖|3.24 21:02|https://github.com/skyworlds/omooc.py/blob/master/src/iippy-1.py|
 6组|cici|3.26 03:42|https://github.com/cici1989/omooc.py/blob/master/src/iippy-1.py|
+6组|叶舟|3.26 09:40|https://github.com/nora614/omooc.py/blob/master/src/iippy-1.py|
 
 ##七组
 
