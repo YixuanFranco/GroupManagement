@@ -16,7 +16,7 @@
 ##三组
 
 ##四组
-组号|组员姓名|完成时间（精确到分钟）|完成作业链接
+组号|组员姓名|完成时间|完成作业链接
 ---|---|---|---|---
 4组|yzha3917|3月25日01:34|[GitHub链接](https://github.com/yzha3917/omooc.py/blob/master/guess_the_number.py)
 4组|cp4|3月25日02:34|[GitHub链接](https://github.com/cp4/omooc.py/blob/master/Guess_Number.py)
