@@ -10,10 +10,10 @@
 ##一组
 
 ##二组
-组号 |组员姓名|完成时间（精确到分钟）|完成作业链接 | 完成作业截图 |
+组号 |组员姓名|完成时间（精确到分钟）|完成作业链接 | 
 --- |---|---|---|---
-2组|弓和箭|BUG-调试中 |[调试中]()| [调试中]() |
-2组|启程-东|2015.3.26 11：14 |[源代码](http://www.codeskulptor.org/#user39_JQSqhenZjF_2.py)| []() |
+2组|弓和箭|2015.3.26 12：03 BUG, 还需要调试 |[GitHub链](https://github.com/badboy315/src-iippy-1/blob/master/Guess%20the%20number.py)| 
+2组|启程-东|2015.3.26 11：14 |[源代码](http://www.codeskulptor.org/#user39_JQSqhenZjF_2.py)|
 ##三组
 
 ##四组
