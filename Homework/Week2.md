@@ -39,6 +39,7 @@
 6组|糖糖糖|3.24 21:02|https://github.com/skyworlds/omooc.py/blob/master/src/iippy-1.py|
 6组|cici|3.26 03:42|https://github.com/cici1989/omooc.py/blob/master/src/iippy-1.py|
 6组|叶舟|3.26 09:13|https://https://github.com/nora614/omooc.py/blob/master/src/iippy-1.py|
+6组|袅袅|3.26 11:58|https://github.com/sunmmy/omooc.py/blob/master/guess_the_number|
 
 ##七组
 
