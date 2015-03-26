@@ -16,6 +16,14 @@
 ##三组
 
 ##四组
+组号|组员姓名|完成时间（精确到分钟）|完成作业链接
+---|---|---|---|---
+4组|yzha3917|3月25日 01:34|https://github.com/yzha3917/omooc.py/blob/master/guess_the_number.py
+4组|cp4|3月25日 02:34|https://github.com/cp4/omooc.py/blob/master/Guess_Number.py
+4组|reinhartzzhang|3月25日 23:20|https://github.com/reinhartzzhang/pythoncamp0/blob/master/source/part2/homework_week2.md
+
+
+
 
 ##五组
 组号 |组员姓名|完成时间（精确到分钟）|完成作业链接
