@@ -10,6 +10,8 @@
     free完成了作业和本地codeskulptor环境的搭建
     其它成员还在猛刷coursera课程
     
-    
+3.26
+   研究了组内成员的任务进度跟踪方式，打算尝试用github的issues功能来跟踪任务，用milestone来建立迭代；
+   组员完成任务，在自己被assign的issue中贴出证据，并关闭issue。整个issue的进度是小组的进度。    
    
    
