@@ -23,7 +23,7 @@ TonyYet | TonyYet | OS X
 3. 顾晨杰
   - gihub 的代码仓库：  https://github.com/zxcbbn/omooc.py
   - gitbook 在 github 上的图书仓库：  https://github.com/zxcbbn/pythoncamp0
-  - gitbook 发布链接：  
+  - gitbook 发布链接：  http://zxcbbn.gitbooks.io/pythoncamp0/content/
   - 小组库的链接：  https://github.com/yzha3917/Powerful-Young-Men
   
 4. 晓可
