@@ -54,6 +54,8 @@
 6组|L|3.26 13:18|https://github.com/leeciyuan/pythoncamp0/blob/master/src/iippy-1|
 
 ##七组
+7组|Issam|3.26 01:49|https://github.com/fengguang22/pythoncamp0/blob/master/src/iip-1|
+7组|安静|3.26 23:07|https://github.com/Lillianmin/omooc.py/blob/master/src/iippy-1/guess_number.py|
 
 ##八组
 
