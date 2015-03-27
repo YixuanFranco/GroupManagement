@@ -14,7 +14,13 @@
 --- |---|---|---|---
 2组|弓和箭|2015.3.26 12：03 BUG, 还需要调试 |[GitHub链](https://github.com/badboy315/src-iippy-1/blob/master/Guess%20the%20number.py)| 
 2组|启程-东|2015.3.26 11：14 |[源代码](http://www.codeskulptor.org/#user39_JQSqhenZjF_2.py)|
+
 ##三组
+组名|组员姓名|完成时间|完成作业链接
+---- | ---- |----
+3组|廖保城|2015.03.26 00.10.30|[Github链接](https://github.com/balsamleo/pythoncamp0/blob/master/src/iippy-1/guess_the_number.py)
+3组|贾平|2015.03.26  10.40.30|[Github链接](https://github.com/jiap/pythoncamp0/blob/master/src/iippy-1/guess%20the%20number.py)
+
 
 ##四组
 组号|组员姓名|完成时间|完成作业链接
