@@ -12,8 +12,10 @@
 ##二组
 组号 |组员姓名|完成时间（精确到分钟）|完成作业链接 | 
 --- |---|---|---|---
-2组|弓和箭|2015.3.26 12：03 BUG, 还需要调试 |[GitHub链](https://github.com/badboy315/src-iippy-1/blob/master/Guess%20the%20number.py)| 
+2组|弓和箭|2015.3.26 12：03 |[GitHub链](https://github.com/badboy315/src-iippy-1/blob/master/Guess%20the%20number.py)| 
 2组|启程-东|2015.3.26 11：14 |[源代码](http://www.codeskulptor.org/#user39_JQSqhenZjF_2.py)|
+2组|rainvoo|2015/03/26/13:46 |[GitHub](https://github.com/Rainvoo/pythoncamp0/blob/master/source/part2/guessthenumber.md)|[codeskulptor](http://www.codeskulptor.org/#user39_ZIlZxqolkU_0.py)|
+2组|wenzy|2015/03/26/24:00 |[GitHub](https://github.com/Wenzy--/omooc.py/blob/master/ex1.py)|
 
 ##三组
 组号|组员姓名|完成时间|完成作业链接|
