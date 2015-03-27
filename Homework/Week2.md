@@ -58,6 +58,7 @@
 --- |---|---|---|---
 7组|Issam|3.26 01:49|https://github.com/fengguang22/pythoncamp0/blob/master/src/iip-1|
 7组|安静|3.26 23:07|https://github.com/Lillianmin/omooc.py/blob/master/src/iippy-1/guess_number.py|
+7组|石子佳|3.27 01:30|https://github.com/StoneJiaJia/omooc.py/blob/master/homework/guess%20number.py|
 
 ##八组
 
