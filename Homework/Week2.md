@@ -25,8 +25,7 @@
 ---- | ---- |----|----
 3组|廖保城|2015.03.26 00.10.30|[Github链接](https://github.com/balsamleo/pythoncamp0/blob/master/src/iippy-1/guess_the_number.py)
 3组|贾平|2015.03.26  10.40.30|[Github链接](https://github.com/jiap/pythoncamp0/blob/master/src/iippy-1/guess%20the%20number.py)
-
-
+3组|贾平|2015.03.29  22.00.00|[Github链接](https://github.com/fengdasuk19/pythoncamp0/blob/master/src/iippy-1/guess_number.py)
 ##四组
 组号|组员姓名|完成时间|完成作业链接
 ---|---|---|---|---
