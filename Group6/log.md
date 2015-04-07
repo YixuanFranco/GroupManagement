@@ -223,4 +223,51 @@ gitbook 的问题
 @cici 我也有个问题是 我双推虽然好了 但是在Github写了东西之后 打开gitbook编辑时也能看到同步了  但打开发布的书 就是一开始推上去的样子 还有俩错别字
 
 
+# 4.7
+
+问题讨论，整理BY@叶舟
+
+## 操作技巧
+**cici：**
+
+- 我在学coursera课的时候 发现Scott可以直接用#前缀很多行代码 把暂时不用的代码变成注释 然后我找了一下 是ctrl-k 可以把多行代码变成注释  ctrl-shift-k 再变回来 在调试代码的时候很方便 
+- 有时候不小心删了 command-z可以撤销回来
+
+## dispus
+**蝈蝈：** [wiki链接](https://github.com/rosing/pythoncamp0/blob/master/wiki/disqus.md)
+
+- 找到了一个靠谱的做法 
+
+1. 修改gitbook书根目录下的book.json文件 
+
+`{
+"plugins":[
+"disqus"
+],
+"pluginsConfig":{
+"shortName":"rosinggitbook"
+} 
+}`
+
+2. 在disqus网站添加信任域
+位置：setting - advanced - Trusted Domains
+填入：gitbook.com,gitbook.io
+
+## codeskulpter在线保存
+**叶舟：**点击下载，跳转界面后右键，选择“存储为”
+
+## 新建md文件
+**叶舟：**直接点击macdown／mou图标，或者command＋n
+**糖糖糖：**终端运行touch命令
+**蝈蝈：**ubuntu下直接新建文件，改后缀名
+
+## gitbook问题：
+**蝈蝈：**[教程](http://rosing.gitbooks.io/python/content/)
+        
+ 记得写summary.md
+ 
+ **叶舟：**双推经常不管用，所以用以下命令单独推一次到gitbook：
+ `git remote add gitbook https://git.gitbook.com/username/repname.git`
+`git push -f -u gitbook master`
+
 
